@@ -1,0 +1,7 @@
+{
+  "name": "NexusGear - Gaming Deals & Affiliate Hub",
+  "description": "Curated deals on pro-grade gaming keyboards, mice, headsets & hardware with Amazon & Flipkart price comparison and affiliate tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
